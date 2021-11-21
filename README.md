@@ -1,8 +1,13 @@
 <p align="center"><img width=100% src="https://github.com/chainintegrity/Verifiable-Audits/blob/main/assets/1500x500.jpg"></p>
 
-# Published & Verifiable Audit Deliverables
+# 'Chain Integrity' is more than code, it's about users as well.
+Work with a company that is committed to improve the security of decentralized finance for both inventors and investors by providing first-class security research.
 
-The Bellow audits  has  been  prepared  for  Our Clients  to  discover  and  analyze  the codebase  provided  by  the Relevant team  for  security  vulnerabilities,  code  correctness,  and  risk  of investment.  Each  codebase  has  been  comprehensively  examined  using  structural  analysis, behavioral analysis, and manual review techniques.
+Our team consist of threat modelling specialists and smart contract auditors with in-depth proficiency in activities such as threat modelling, security auditing,  and risk analysis - enabling coverage of the entire spectrum of actors in decentralized finance, including projects, venture capitals, HNWIs.
+
+# Published & Verifiable Audits 
+
+The audits below have been delivered to clients that reached out to us for performance optimization, code correctness, security assessment, and thorough risk analysis. Every codebase is comprehensively examined using structural analysis, behavioral analysis, manual review techniques, and threat modeling.
 
 **Throughout the audit, caution was taken to ensure that the smart contract(s):**
 - [x] Implements robust functions which are safe from well-known attack vectors.
