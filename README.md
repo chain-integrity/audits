@@ -7,9 +7,9 @@ Work with a company that is committed to improve the security of decentralized f
 
 The audits below have been delivered to clients that reached out to us for performance optimization, code correctness, security assessment, and thorough risk analysis. Every codebase is comprehensively examined using structural analysis, behavioral analysis, manual review techniques, and threat modeling.
 
-**Throughout the audit, caution was taken to ensure that the smart contract(s):**
+**Throughout an audit, caution is always taken to ensure that the codebase:**
 - [x] Implements robust functions which are safe from well-known attack vectors.
-- [x] The logic and behavior adheres to the associated documentation and code comments.
+- [x] The logic and behavior adheres to associated documentation and code comments.
 - [x] Transfer flows are designed in a sustainable way, safeguarded from i.e. infinite loops. 
 - [x] Cross-comparison with similar smart contracts based on functionality. 
 - [x] Does not hide potential back doors and implements sanity checks where suitable. 
