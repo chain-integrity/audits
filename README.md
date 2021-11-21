@@ -1,6 +1,6 @@
 <p align="center"><img width=100% src="https://github.com/chainintegrity/Verifiable-Audits/blob/main/assets/1500x500.jpg"></p>
 
-# 'Chain Integrity' is more than secure code, it's about a safe experience as well. 
+# 'Chain Integrity' is more than secure code, it's about a safe experience. 
 Work with a company that is committed to improve the security of decentralized finance for both inventors and investors by providing first-class security research. Our team consist of threat modelling specialists and smart contract auditors with in-depth proficiency in activities such as threat modelling, security auditing,  and risk analysis - enabling coverage of the entire spectrum of actors in decentralized finance, including projects, venture capitals, HNWIs.
 
 # Published & Verifiable Audits 
