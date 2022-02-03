@@ -22,3 +22,7 @@ The audits below have been delivered to clients that reached out to us for perfo
 ## Minted Teddy
 - [Version 1](https://github.com/chainintegrity/Verifiable-Audits/blob/main/audits/Minted-Teddy/MT-Audit-Deliverable.pdf)
 - [Version 2- Final](https://github.com/chainintegrity/Verifiable-Audits/blob/main/audits/Minted-Teddy/MT-Updated-Audit-Deliverable.pdf)
+
+## Revolve Games Phase-2
+- [Version 3- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games-phase-2/RG-Phase2-Audit-Deliverable.pdf)
+
