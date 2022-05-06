@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/chainintegrity/Verifiable-Audits/blob/main/assets/1500x500.jpg"></p>
+<p align="center"><img width=100% src="https://github.com/chain-integrity/audits/blob/main/assets/1500x500.jpg"></p>
 
 # Chain Integrity: Integrating secure code with a safe experience. 
 Work with a company that is committed to improve the security of decentralized finance for both inventors and investors by providing first-class security research. Our team consist of threat modelling specialists and smart contract auditors with in-depth proficiency in activities such as threat modelling, security auditing,  and risk analysis - enabling security coverage for the entire spectrum of actors including projects, communities, venture capitals, and HNWIs.
@@ -15,13 +15,13 @@ The audits below have been delivered to clients that reached out to us for perfo
 - [x] Does not hide potential back doors and implements sanity checks where suitable. 
 
 ## Revolve Games Token
-- [Version 1](https://github.com/chainintegrity/Verifiable-Audits/blob/main/audits/Revolve-Games/Token/RG-Initial-Audit-Deliverable.pdf)
-- [Version 2](https://github.com/chainintegrity/Verifiable-Audits/blob/main/audits/Revolve-Games/Token/RG-Updated-Audit-Deliverable.pdf)
-- [Version 3- Final](https://github.com/chainintegrity/Verifiable-Audits/blob/main/audits/Revolve-Games/Token/RG-Final-Audit-Deliverable.pdf)
+- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Initial-Audit-Deliverable.pdf)
+- [Version 2](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Updated-Audit-Deliverable.pdf)
+- [Version 3- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Final-Audit-Deliverable.pdf)
 
 ## Minted Teddy
-- [Version 1](https://github.com/chainintegrity/Verifiable-Audits/blob/main/audits/Minted-Teddy/MT-Initial-Audit-Deliverable.pdf)
-- [Version 2- Final](https://github.com/chainintegrity/Verifiable-Audits/blob/main/audits/Minted-Teddy/MT-Final-Audit-Deliverable.pdf)
+- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Minted-Teddy/MT-Initial-Audit-Deliverable.pdf)
+- [Version 2- Final](https://github.com/chain-integrity/audits/blob/main/audits/Minted-Teddy/MT-Final-Audit-Deliverable.pdf)
 
 ## Revolve Games Staking
 - [Version 3- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Staking/RG-Final-Audit-Deliverable.pdf)
