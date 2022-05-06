@@ -27,8 +27,8 @@ The audits below have been delivered to clients that reached out to us for perfo
 - [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Staking/RG-Final-Audit-Deliverable.pdf)
 
 ## Quint.io
-- [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Quint/QU-Initial-Audit-Deliverable.pdf)
+- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Quint/QU-Initial-Audit-Deliverable.pdf)
 
 ## Libera Trade
-- [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Libera-Trade/LT-Initial-Audit-Deliverable.pdf)
+- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Libera-Trade/LT-Initial-Audit-Deliverable.pdf)
 
