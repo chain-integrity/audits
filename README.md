@@ -24,7 +24,7 @@ The audits below have been delivered to clients that reached out to us for perfo
 - [Version 2- Final](https://github.com/chain-integrity/audits/blob/main/audits/Minted-Teddy/MT-Final-Audit-Deliverable.pdf)
 
 ## Revolve Games Staking
-- [Version 3- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Staking/RG-Final-Audit-Deliverable.pdf)
+- [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Staking/RG-Final-Audit-Deliverable.pdf)
 
 ## Quint.io
 - [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Quint/QU-Initial-Audit-Deliverable.pdf)
