@@ -27,5 +27,8 @@ The audits below have been delivered to clients that reached out to us for perfo
 - [Version 3- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games-phase-2/RG-Phase2-Audit-Deliverable.pdf)
 
 ## Quint.io
-- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Quint/QUINT-Audit-Deliverable-v1.pdf)
+- [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Quint/QUINT-Audit-Deliverable-v1.pdf)
+
+## Libera Trade
+- [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/libera-trade/LiberaTrade-Audit-Deliverable.pdf)
 
