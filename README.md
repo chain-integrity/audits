@@ -15,20 +15,20 @@ The audits below have been delivered to clients that reached out to us for perfo
 - [x] Does not hide potential back doors and implements sanity checks where suitable. 
 
 ## Revolve Games Token
-- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Initial-Audit-Deliverable.pdf)
-- [Version 2](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Updated-Audit-Deliverable.pdf)
-- [Version 3- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Final-Audit-Deliverable.pdf)
+- [Initial](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Initial-Audit-Deliverable.pdf)
+- [Updated](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Updated-Audit-Deliverable.pdf)
+- [Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Token/RG-Final-Audit-Deliverable.pdf)
 
 ## Minted Teddy
-- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Minted-Teddy/MT-Initial-Audit-Deliverable.pdf)
-- [Version 2- Final](https://github.com/chain-integrity/audits/blob/main/audits/Minted-Teddy/MT-Final-Audit-Deliverable.pdf)
+- [Initial](https://github.com/chain-integrity/audits/blob/main/audits/Minted-Teddy/MT-Initial-Audit-Deliverable.pdf)
+- [Final](https://github.com/chain-integrity/audits/blob/main/audits/Minted-Teddy/MT-Final-Audit-Deliverable.pdf)
 
 ## Revolve Games Staking
-- [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Staking/RG-Final-Audit-Deliverable.pdf)
+- [Final](https://github.com/chain-integrity/audits/blob/main/audits/Revolve-Games/Staking/RG-Final-Audit-Deliverable.pdf)
 
 ## Quint.io
-- [Version 1](https://github.com/chain-integrity/audits/blob/main/audits/Quint/QU-Initial-Audit-Deliverable.pdf)
+- [Initial](https://github.com/chain-integrity/audits/blob/main/audits/Quint/QU-Initial-Audit-Deliverable.pdf)
 
 ## Libera Trade
-- [Version 1- Final](https://github.com/chain-integrity/audits/blob/main/audits/Libera-Trade/LT-Final-Audit-Deliverable.pdf)
+- [Final](https://github.com/chain-integrity/audits/blob/main/audits/Libera-Trade/LT-Final-Audit-Deliverable.pdf)
 
